@@ -1,0 +1,23 @@
+quantity,description,unit cost,line cost,Digikey part number,manufacturer,manufacturer part number
+1,pcb,,,,,
+1,hex rotary sw,3.22,3.22,GH7262-ND,Grayhill,94HBB16RAT
+1,slide switch,0.42,0.42,CKN10393-ND,C&K Components,SK-12F17-G 7
+1,3.5mm jack,1.36,1.36,CP1-3513N-ND,CUI Stack,SJ1-3513N
+1,momentary sw,0.39,0.39,P10877S-ND,Panasonic Electronic Components,EVQ-PF003M
+1,3904,0.16,0.16,MMBT3904FSCT-ND,Fairchild Semiconductor,MMBT3904
+1,3906,0.21,0.21,MMBT3906FSCT-ND,Fairchild Semiconductor,MMBT3906
+1,914,0.14,0.14,1N914BWSCT-ND,Fairchild Semiconductor,1N914BWS
+1,317 regulator,0.2,0.2,LM317MDTRKGOSCT-ND,ON Semiconductor,LM317MDTRKG
+1,220 ohm trip pot,0.28,0.28,490-3917-1-ND,Murata Electronics North America,PVA2A221A01R00
+1,240 ohm R,0.02,0.02,311-240CRCT-ND,Yageo,RC0805FR-07240RL
+1,620 ohm R,0.02,0.02,311-620CRCT-ND,Yageo,RC0805FR-07620RL
+1,750 ohm R,0.02,0.02,311-750CRCT-ND,Yageo,RC0805FR-07750RL
+1,10Kohm R,0.02,0.02,311-10.0KCRCT-ND,Yageo,RC0805FR-0710KL
+1,1Kohm R,0.02,0.02,311-102CRCT-ND,Yageo,RC0805FR-07102RL
+2,4.7kOhm R,0.02,0.04,311-4.70KCRCT-ND,Yageo,RC0805FR-074K7L
+1,1 uF cap,0.16,0.16,490-6483-1-ND,Murata Electronics North America,GRM21BR71E105KA99K
+2,.1 uF cap,0.1,0.2,490-1673-1-ND,Murata Electronics North America,GRM21BR71E104KA01L
+2,.01 uF cap,0.1,0.2,490-1664-1-ND,Murata Electronics North America,GRM216R71H103KA01D
+1.25,32 pin header strip,0.87,1.0875,WM50014-32-ND,Molex,22284320
+4,2 pin socket,0.35,1.4,S7035-ND,Sullins Connector Solutions,PPPC021LFBN-RC
+,,,9.5675,,,

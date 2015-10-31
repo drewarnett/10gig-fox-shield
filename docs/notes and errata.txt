@@ -1,0 +1,29 @@
+Notes and Errata
+31OCT2015
+Drew Arnett
+
+
+Overall Assembly
+----------------
+In addition to the shield, the following parts were used to complete the
+assembly for the Maker Faire:
+
+1 8xAA battery pack
+	Digikey part number BK-030-ND
+	MPD (Memory Protection Devices)	part number BK-030
+1 10.525 GHz DRO motion detector module
+4 2 pin headers
+1 OSEPP Uno R3 Plus (Arduino R3 compatible)
+
+Any Arduino Uno R3 compatible would work.  The OSEPP is nice because of the
+low profile USB jack that it uses.
+
+2 pin headers are soldered into the DRO module.  Friction is sufficient to hold the DRO module on the shield and the shield on the Arduino.
+
+The DRO module has a tuning slug that can be used to bring it down
+into the 10.0 to 10.5 GHz amateur radio band.
+
+
+Schematic Errata
+----------------
+Tip and shield connections are swapped on the key jack.
